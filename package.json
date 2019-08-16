@@ -1,0 +1,19 @@
+{
+  "name": "srt-to-txt-converter",
+  "version": "1.0.0",
+  "description": ".srt to .txt converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SathishGajendran/srt-to-txt-converter.git"
+  },
+  "author": "Sathish Gajendran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SathishGajendran/srt-to-txt-converter/issues"
+  },
+  "homepage": "https://github.com/SathishGajendran/srt-to-txt-converter#readme"
+}
